@@ -20,13 +20,13 @@ Time : 14 Mehr 1403
 
 WEEK 2 :
 
-- [ ] Learn Git and GitHub with add and management on github
+- [x] Learn Git and GitHub with add and management on github
 - [ ] Add your previous notebook on Kaggle
 - [ ] Fill Features Part Of LinkedIn (Add your GitHub, Kaggle, Resume[PDF], ...)
 - [ ] Search About Kaggle And NoteBook Part
-- [ ] Learn Markdown Deeper
+- [x] Learn Markdown Deeper
 
-Note: Make a google doc and add a link in README.md (Knowledge Repository)
+Note: Make a google doc and add a link in README.md (Knowledge Repository) : https://drive.google.com/drive/folders/1lfAGM0I4maCE0zhkFw30JjGoVQOtC7Dc?usp=share_link
 Note: for each Task you must make notebook
 
 Time : 22 Mehr 1403
