@@ -26,7 +26,10 @@ WEEK 2 :
 - [ ] Search About Kaggle And NoteBook Part
 - [x] Learn Markdown Deeper
 
-Note: Make a google doc and add a link in README.md (Knowledge Repository) : https://drive.google.com/drive/folders/1lfAGM0I4maCE0zhkFw30JjGoVQOtC7Dc?usp=share_link
+Note: Make a google doc and add a link in README.md (Knowledge Repository): 
+
+https://drive.google.com/drive/folders/1lfAGM0I4maCE0zhkFw30JjGoVQOtC7Dc?usp=share_link
+
 Note: for each Task you must make notebook
 
 Time : 22 Mehr 1403
