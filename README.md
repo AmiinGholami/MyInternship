@@ -22,7 +22,7 @@ WEEK 2 :
 
 - [x] Learn Git and GitHub with add and management on github
 - [ ] Add your previous notebook on Kaggle
-- [ ] Fill Features Part Of LinkedIn (Add your GitHub, Kaggle, Resume[PDF], ...)
+- [x] Fill Features Part Of LinkedIn (Add your GitHub, Kaggle, Resume[PDF], ...)
 - [ ] Search About Kaggle And NoteBook Part
 - [x] Learn Markdown Deeper
 
