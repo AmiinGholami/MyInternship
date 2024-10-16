@@ -8,4 +8,5 @@ By connecting with individuals who share my interests, I’m expanding my knowle
 
 ## LinkedIn Profile:
 Follow me on LinkedIn to see my latest updates and be part of my network!
+
 You can find my profile here: [Amin Gholami on LinkedIn](https://www.linkedin.com/in/amiingholami)
