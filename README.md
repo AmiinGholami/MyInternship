@@ -5,11 +5,11 @@ In this repository, I will document my learning journey in data science. You’l
 
 WEEK 1 :
 
-- [ ] Learn Git and GitHub with add and management on github
-- [ ] Add your previous notebook on Kaggle
-- [ ] Fill Features Part Of LinkedIn (Add your GitHub, Kaggle, Resume[PDF], ...)
-- [ ] Search About Kaggle And NoteBook Part
-- [ ] Learn Markdown Deeper
+- [x] Learn Git and GitHub with add and management on github
+- [x] Add your previous notebook on Kaggle
+- [x] Fill Features Part Of LinkedIn (Add your GitHub, Kaggle, Resume[PDF], ...)
+- [x] Search About Kaggle And NoteBook Part
+- [x] Learn Markdown Deeper
 
 Note: Make a google doc and add a link in README.md (Knowledge Repository)
 Note: for each Task you must make notebook
@@ -39,7 +39,7 @@ WEEK 3 :
 - [ ] Search about time series forecasting parameters and features
 - [ ] Search about telegram API and features that we can get from that
 - [ ] Find python finance data collector libraries and make list for that
-- [ ] Increase your connection at LinkedIn
+- [x] Increase your connection at LinkedIn
 
 Note: Make a google doc and add a link in README.md (Knowledge Repository)
 Note: for each Task you must make notebook
