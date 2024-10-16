@@ -37,7 +37,7 @@ Time : 22 Mehr 1403
 WEEK 3 :
 
 - [ ] Search about time series forecasting parameters and features
-- [ ] Search about telegram API and features that we can get from that
+- [x] Search about telegram API and features that we can get from that
 - [ ] Find python finance data collector libraries and make list for that
 - [x] Increase your connection at LinkedIn
 
