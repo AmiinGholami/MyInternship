@@ -90,6 +90,12 @@ Streamlit makes it incredibly easy to incorporate any data visualization tools i
 ### What is Gradio?
 Gradio is a Python library that makes it super simple to create UIs for machine learning models and share them via a web interface. It’s especially designed for users who want to quickly build and test ML models in a user-friendly environment.
 
+
+I am using Gradio Playground for making more familiar with Gradio
+
+Gradio Playground:	https://www.gradio.app/playground
+
+ 
 ### Step-by-Step Process
 
 ### a) **Installation and Setup**
