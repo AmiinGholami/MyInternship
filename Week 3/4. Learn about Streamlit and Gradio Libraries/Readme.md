@@ -6,7 +6,7 @@ As part of my internship, I was assigned the task to **learn about Streamlit and
 
 ## Making My Own GDP Dashboard with Streamlit:
 
-🌎 GDP dashboard: https://studious-lamp-jj4476w999jj2p675-8501.app.github.dev
+🌎 GDP dashboard: https://gdp-dashboard-of-amin.streamlit.app/
 
 Repository : https://github.com/AmiinGholami/GDPdashboard
 
