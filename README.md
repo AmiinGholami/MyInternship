@@ -35,10 +35,10 @@ Time : 30 Mehr 1403
 
 WEEK 3 :
 
-- [ ] Write LinkedIn post about Finance libraries and Pros and Cons
+- [x] Write LinkedIn post about Finance libraries and Pros and Cons
 - [ ] Analysis Data that extract from one of best libraries
 - [ ] Try to extract telegram datas (Data Collection)
-- [ ] Learn about Streamlit and Gradio Libraries
+- [x] Learn about Streamlit and Gradio Libraries
 
 Note: Make a google doc and add a link in README.md (Knowledge Repository)
 Note: for each Task you must make notebook
