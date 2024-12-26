@@ -49,7 +49,7 @@ Time : 9 Aban 1403
 
 WEEK 4 :
 
-- [ ] Make the telegram bot that get us bitcoin price for specific time (with bot father and Finance library)
+- [x] Make the telegram bot that get us bitcoin price for specific time (with bot father and Finance library)
 - [ ] Implement an ML algorithm for predict etherium coin (you can use ml algorithm like SVM, DT or DL algorithm like LSTM try to train algorithm and focus on hyper-paramenters) 
 - [ ] Try to make GUI for your algorithm with Gradio or streamlit 
 
