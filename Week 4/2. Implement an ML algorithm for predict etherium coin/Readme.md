@@ -95,11 +95,12 @@ This performance indicates high accuracy in predicting Ethereum prices. However,
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ethereum-price-prediction.git
+   ```
 
 2.	Install dependencies:
    ```bash
    pip install -r requirements.txt
-
+```
 3.	Download the dataset:
 Place your dataset file (ETH_day.csv) in the project directory.
 
