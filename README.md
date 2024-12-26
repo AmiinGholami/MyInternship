@@ -35,12 +35,26 @@ Time : 30 Mehr 1403
 
 WEEK 3 :
 
-- [ ] Write LinkedIn post about Finance libraries and Pros and Cons
-- [ ] Analysis Data that extract from one of best libraries
-- [ ] Try to extract telegram datas (Data Collection)
-- [ ] Learn about Streamlit and Gradio Libraries
+- [x] Write LinkedIn post about Finance libraries and Pros and Cons
+- [x] Analysis Data that extract from one of best libraries
+- [x] Try to extract telegram datas (Data Collection)
+- [x] Learn about Streamlit and Gradio Libraries
 
 Note: Make a google doc and add a link in README.md (Knowledge Repository)
 Note: for each Task you must make notebook
 
 Time : 9 Aban 1403
+
+---
+
+WEEK 4 :
+
+- [ ] Make the telegram bot that get us bitcoin price for specific time (with bot father and Finance library)
+- [ ] Implement an ML algorithm for predict etherium coin (you can use ml algorithm like SVM, DT or DL algorithm like LSTM try to train algorithm and focus on hyper-paramenters) 
+- [ ] Try to make GUI for your algorithm with Gradio or streamlit 
+
+Note: Make a google doc and add a link in README.md (Knowledge Repository)
+Note: for each Task you must make notebook
+
+Time : 5 Day 1403
+
